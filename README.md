@@ -3,8 +3,8 @@
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" /><script src="https://unpkg.com/aos@next/dist/aos.js"></script>
   <script>
     AOS.init();
-  </script>
- <div class="container" data-aos="fade-left">
+  </script> data-aos="fade-left"
+ #<div class="container" data-aos="fade-left">
     <h1 class="container-title">Welcome to the Stylish Container</h1>
     <p class="container-text">This is a beautifully styled div container. You can put any content inside it, and it
       will look great on any device.</p>
