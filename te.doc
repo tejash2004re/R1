@@ -37,7 +37,29 @@ img {
   height: 100%;
 }
 
+\\
 
+<div class="about" data-aos="fade-right" >
+            <div class="container-xxl py-5">
+                <div class="container">
+                    <div class="row g-5">
+                        <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="min-height: 400px; " data-aos="fade-right" >
+                            <div class="position-relative h-100">
+                                <img class="img-fluid position-absolute w-100 h-100" src="https://wallpaperaccess.com/full/767054.jpg" alt="Image" style="object-fit: cover;">
+                            </div>
+                        </div>
+                        <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
+                            <h6 >About Us</h6>
+                            <h1 class="mb-4">Welcome to SUN eLEARNING</h1>
+                            <div class="row gy-2 gx-4 mb-4">     
+                            </div>
+                            <a class="btn btn-primary py-3 px-5 mt-2" href="">Read More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+  
 
 
 
