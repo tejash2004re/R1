@@ -5,6 +5,44 @@
     AOS.init();
   </script> data-aos="fade-left"
  #<div class="container" data-aos="fade-left">
+\\
+fornt
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Whisper&display=swap" rel="stylesheet">
+ font-family: "Whisper", cursive;
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Whisper&display=swap" rel="stylesheet">
+  font-family: "Roboto Mono", monospace;
+\\
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+}
+
+
+
+
+
+
+<div class="container" data-aos="fade-left">
     <h1 class="container-title">Welcome to the Stylish Container</h1>
     <p class="container-text">This is a beautifully styled div container. You can put any content inside it, and it
       will look great on any device.</p>
